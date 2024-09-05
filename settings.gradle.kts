@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "test-app"
 include(":app")
- 
